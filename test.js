@@ -6,7 +6,7 @@ var nightmare4 = Nightmare({ show: false })
 var nightmare5 = Nightmare({ show: false })
 var url = 'http://localhost:8080/'
 var radix = 10
-console.log('f2')
+console.log('qwerty')
 describe('test ', function () {
   it('should find the nightmare github link first', function () {
     nightmare

@@ -7,13 +7,12 @@
     "angular": "^1.5.2",
     "express": "^4.13.4",
     "nightmare": "^2.2.0",
-    "promise": "^7.1.1",
     "q": "^1.4.1",
     "standard": "^6.0.8"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha",
+    "test": "node test.js",
     "start": "node server.js"
   },
   "author": "",

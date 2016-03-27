@@ -12,7 +12,7 @@ var nightmare10 = Nightmare({ show: false })
 var url = 'http://localhost:8080/'
 var radix = 10
 a()
-console.log('aaa')
+console.log('qwerty')
 function a () {
   nightmare
     .goto(url)
